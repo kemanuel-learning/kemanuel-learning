@@ -1,12 +1,7 @@
-- 👋 Hi, I’m Kaleb
-- 👀 I’m interested in Python and FOSS
-- 🌱 I’m currently learning Algorithms
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
---->
+- 👋 Olá, eu sou o Kaleb
+- 👀 Tenho interesse em Python e software livre
+- 🌱 Estou estudando Ciência da Computação e fundamentos para trabalhar no suporte
+- 📫 Você pode me encontrar também no [LinkedIn](www.linkedin.com/in/kaleb-emanuel-921932328)
 
 <!---
 kemanuel-learning/kemanuel-learning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
